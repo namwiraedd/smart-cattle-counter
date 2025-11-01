@@ -46,6 +46,8 @@ cd frontend
 npm install
 npm start
 
+
+```
 Cloud Deployment
 
 Scripts for GCP and AWS are included in /deploy/.
