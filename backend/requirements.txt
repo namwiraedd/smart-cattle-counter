@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+torch
+boto3
+fpdf
+python-jose
